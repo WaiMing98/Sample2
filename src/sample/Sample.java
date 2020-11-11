@@ -15,13 +15,6 @@ public class Sample {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-    }
-    
-    public void main(){
-        char a;
-    }
-    
-    public void main2(){
+        System.out.print("Testing123");
     }
 }
