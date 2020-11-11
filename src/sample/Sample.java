@@ -18,6 +18,6 @@ public class Sample {
         System.out.print("Testing123");
         System.out.print("Testing123");
         System.out.print("Testing123");
-        System.out.print("Testing123");
+        System.out.print("Testing123");System.out.print("Testing123");
     }
 }
