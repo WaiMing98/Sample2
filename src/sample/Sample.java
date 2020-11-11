@@ -16,5 +16,8 @@ public class Sample {
      */
     public static void main(String[] args) {
         System.out.print("Testing123");
+        System.out.print("Testing123");
+        System.out.print("Testing123");
+        System.out.print("Testing123");
     }
 }
