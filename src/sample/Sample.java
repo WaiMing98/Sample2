@@ -18,4 +18,10 @@ public class Sample {
         // TODO code application logic here
     }
     
+    public void main(){
+        char a;
+    }
+    
+    public void main2(){
+    }
 }
